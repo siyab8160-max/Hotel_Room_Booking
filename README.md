@@ -1,7 +1,7 @@
 # Hostel Room Booking System
 
 **Student Name:** Siya Bhardwaj  
-**Roll Number / UID:** [Enter your roll number / UID]  
+**Roll Number / UID:** 2502201530081 /   
 **Problem Statement:** P1 – Hostel Room Booking
 
 ## About
@@ -31,7 +31,7 @@ Hostel Room Booking System is a React application that allows students to view h
 Clone the repository:
 
 ```bash
-git clone YOUR_GITHUB_REPOSITORY_LINK
+git clone https://github.com/siyab8160-max/Hotel_Room_Booking.git
 ```
 
 Move into the project folder:
@@ -54,7 +54,7 @@ npm run dev
 
 ## Live Deployment
 
-**Vercel Link:** [Add your deployed application link here]
+**Vercel Link:** https://hotel-room-booking-henna.vercel.app
 
 ## Project Structure
 
